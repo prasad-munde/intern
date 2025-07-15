@@ -5,7 +5,7 @@ from google import genai
 from google.genai import types
 
 # ======= STEP 1: CONFIG ========
-GEMINI_API_KEY = "AIzaSyBd3R_t1R334dFu153PquBSD8vFCBnvyZU"  # Replace with your API key
+GEMINI_API_KEY = ""  # Replace with your API key
 image_path = "yt.png"  # Your screenshot path
 
 # Set tesseract path if needed
